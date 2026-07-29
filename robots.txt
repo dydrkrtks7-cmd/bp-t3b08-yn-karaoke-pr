@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deungchon-nightlife-note.banpo-massage-review.xyz/sitemap.xml
